@@ -32,7 +32,7 @@ export const Hero = () => {
               bgClip="text"
               data-aos="fade-up"
             >
-              Build advanced chatbots visually
+                1Link.pro + ChatBot = 💕
             </Heading>
             <Text
               fontSize={['lg', 'xl']}
